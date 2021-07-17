@@ -1,2 +1,2 @@
 # grpc-simulate
- Experiment to distribute basic simulation with grpc
+ Experiment to distribute basic bouncing ball simulation with grpc
